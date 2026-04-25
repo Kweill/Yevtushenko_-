@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../Project_Yevtushenko/Core/Core.csproj" />
+  <Project Path="lab5/lab5.csproj" />
+</Solution>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transactions>
+  <Transaction>
+    <Description>Salary</Description>
+    <Amount>2000</Amount>
+  </Transaction>
+</Transactions>
