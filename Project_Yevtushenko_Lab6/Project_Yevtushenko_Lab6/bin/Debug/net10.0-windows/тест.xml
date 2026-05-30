@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTransaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transaction xsi:type="ExpenseTransaction">
+    <Description>микроволновка</Description>
+    <Amount>14212</Amount>
+    <Date>2024-08-20T18:52:37.689</Date>
+  </Transaction>
+  <Transaction xsi:type="IncomeTransaction">
+    <Description>нашёл в куртке</Description>
+    <Amount>500</Amount>
+    <Date>2025-10-15T18:52:54.756</Date>
+  </Transaction>
+</ArrayOfTransaction>
